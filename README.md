@@ -10,6 +10,7 @@ Techniques used in the app include the following
 4. Framework for backend API calls
 5. State controls and dynamic platform programming
 
+SwipeCards.js was forked from the npm library to allow for more customization
 
 ## DEFAULT REACT NATIVE INSTRUCTIONS
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
